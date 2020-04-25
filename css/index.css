@@ -1,7 +1,9 @@
 #profile{
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	width: 1000px;
+	margin: auto;
 	box-sizing: border-box;
+}
+#profile div{
+	display: flex;
+	margin-top: 20px;
 }
