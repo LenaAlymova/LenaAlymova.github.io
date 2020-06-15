@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reccurt", "Reccurt\Reccurt.vcxproj", "{FEFD9299-4F41-48B2-8F59-C0DFF318E98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFD9299-4F41-48B2-8F59-C0DFF318E98C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEFD9299-4F41-48B2-8F59-C0DFF318E98C}.Debug|Win32.Build.0 = Debug|Win32
+		{FEFD9299-4F41-48B2-8F59-C0DFF318E98C}.Release|Win32.ActiveCfg = Release|Win32
+		{FEFD9299-4F41-48B2-8F59-C0DFF318E98C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

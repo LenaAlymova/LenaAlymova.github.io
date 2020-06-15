@@ -1,0 +1,5 @@
+﻿  Simpson.cpp
+D:\Леночка\УНИВЕР\ЧМ\Simpson\Simpson1\Simpson.cpp(33,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Леночка\УНИВЕР\ЧМ\Simpson\Simpson1\Simpson.cpp(33,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Леночка\УНИВЕР\ЧМ\Simpson\Simpson1\Simpson.cpp(38,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Simpson1.vcxproj -> D:\Леночка\УНИВЕР\ЧМ\Simpson\Debug\Simpson1.exe

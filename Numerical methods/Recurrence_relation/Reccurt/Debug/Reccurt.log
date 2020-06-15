@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Reccurt.cpp
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(36,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(54,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(101,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(122,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(140,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Леночка\УНИВЕР\ЧМ\Reccurt\Reccurt\Reccurt.cpp(143,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Reccurt.vcxproj -> D:\Леночка\УНИВЕР\ЧМ\Reccurt\Debug\Reccurt.exe
